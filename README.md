@@ -8,10 +8,10 @@ to find a bug and finally find solution. For me sounds like fun! So it is not jo
 
 🌱 I’m currently learning [Python, Data Science', 'Solidity', 'algorithms', 'Computer Science by Harvard CS50']
 
-Contacts = {Telegramm: @captainbloodborne
-                       Discord: Vozmak#1845
-                       MS Teams: vrail30@gmail.com
-                       VK: https://vk.com/vrail30
+Contacts = {Telegramm: @captainbloodborne,
+                       Discord: Vozmak#1845,
+                       MS Teams: vrail30@gmail.com,
+                       VK: https://vk.com/vrail30,
                        Slack:
                        }
 
