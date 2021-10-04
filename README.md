@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Artem Pichugin. I become a merchant ship officer, because I was afraid of Maths. But my passion is IT. Since I switched off my father's old PC,
+👋 Hi, My name is Artem Pichugin. I become a merchant ship officer, because I was afraid of Maths. But my passion is IT. Since I switched off my father's old PC,
 I have been interested in everything about IT. Sitting in front of screen, typing hundreds line of code, puzzling over, trying 
 to find a bug and finally find solution. For me sounds like fun! So it is not job, it is my hobbie, a way to express myself and maybe change the world. 
 
